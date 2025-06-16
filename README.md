@@ -42,15 +42,7 @@ Passionate and results-driven Software Developer with 4 years of experience desi
 - AWS EC2 and S3, Git, GitHub, GitLab, Docker, Redis
 
 #### **Operating Systems**
-- Windows 10/11, Ubuntu, Linux, Mac
-
----
-
-### 🎓 **Education**
-
-- **B.Tech (Computer Science & Engineering)**, AKTU – 65% (2014 - 2018)
-- **Intermediate**, JDSVM Inter College, Prayagraj U.P. – 85% (2012 - 2013)
-- **Matriculation**, JDSVM Inter College, Prayagraj U.P. – 74% (2010 - 2011)
+- Windows 10/11, Linux, MacOS
 
 ---
 
