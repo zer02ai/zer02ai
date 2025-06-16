@@ -12,10 +12,9 @@ Passionate and results-driven Software Developer with 4 years of experience desi
 
 ### 📫 **Contact**
 
-- **Phone:** +91 8285954719  
 - **Email:** ashuc22ai@gmail.com  
-- **Address:** TY-1-275 Reserve Police Line, Prayagraj, Uttar Pradesh 211002  
-- **LinkedIn:** [ashutosh2](https://www.linkedin.com/in/ashutosh2)  
+- **Address:** Prayagraj, Uttar Pradesh, India
+- **LinkedIn:** [ashutosh22197](https://www.linkedin.com/in/ashutosh22197)  
 
 ---
 
