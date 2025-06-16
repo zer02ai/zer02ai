@@ -1,4 +1,4 @@
-# Ashutosh Software Chauhan
+# Ashutosh Chauhan
 
 ## Software Developer
 
@@ -6,7 +6,7 @@
 
 ### 👤 **Profile Summary**
 
-Passionate and results-driven Software Developer with 4 years of experience designing and developing innovative solutions. Proficient in developing microservices, RESTful APIs, and web applications. Adept at collaborating with cross-functional teams, solving complex problems, and optimizing system performance to enhance user experience. I am seeking a challenging role where I can contribute my skills in developing and creating AI-driven solutions.
+Passionate and results-driven Software Developer with 4 years of experience designing and developing innovative solutions. Proficient in developing Microservices, RESTful APIs, and web applications. Adept at collaborating with cross-functional teams, solving complex problems, and optimizing system performance to enhance user experience. I am seeking a challenging role where I can contribute my skills in developing and creating AI-driven solutions.
 
 ---
 
@@ -21,7 +21,7 @@ Passionate and results-driven Software Developer with 4 years of experience desi
 ### 🛠️ **Skills**
 
 #### **AI & Data Science**
-- Langchain, AI Agent, NLP, Machine Learning, Web Scrapping
+- Langchain | AI Agent, Natural Language Processing, Machine Learning, Web Scrapping
 - Statistics, Numpy, Pandas, Data Analysis
 - Matplotlib, Seaborn
 
@@ -29,16 +29,16 @@ Passionate and results-driven Software Developer with 4 years of experience desi
 - Python, JavaScript, PHP
 
 #### **Frontend**
-- HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax, React
+- HTML, CSS, JavaScript, Bootstrap, Tailwind, jQuery, Ajax, React
 
 #### **Database**
 - MongoDB, MySQL, PostgreSQL
 
 #### **Frameworks**
-- FastAPI, Django, CodeIgniter, Laravel, ExpressJS, NextJS
+- FastAPI, Flask, Django, Laravel, CodeIgniter, ExpressJS, NextJS
 
 #### **DevOps & Tools**
-- AWS EC2 and S3, Git, GitHub, GitLab, Docker, Redis
+- AWS EC2 and S3, Git, GitHub, GitLab, Docker, Redis, RabbitMQ
 
 #### **Operating Systems**
 - Windows 10/11, Linux, MacOS
