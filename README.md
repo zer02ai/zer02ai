@@ -12,8 +12,7 @@ Passionate and results-driven Software Developer with 4 years of experience desi
 
 ### 📫 **Contact**
 
-- **Email:** ashuc22ai@gmail.com  
-- **Address:** Prayagraj, Uttar Pradesh, India
+- **Email:** ashuc22ai@gmail.com
 - **LinkedIn:** [ashutosh22197](https://www.linkedin.com/in/ashutosh22197)  
 
 ---
