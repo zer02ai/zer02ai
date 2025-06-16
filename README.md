@@ -6,7 +6,7 @@
 
 ### 👤 **Profile Summary**
 
-Passionate and results-driven Software Developer with 4 years of experience designing and developing innovative solutions. Proficient in developing Microservices, RESTful APIs, and web applications. Adept at collaborating with cross-functional teams, solving complex problems, and optimizing system performance to enhance user experience. I am seeking a challenging role where I can contribute my skills in developing and creating AI-driven solutions.
+Passionate and results-driven Software Developer with 4 years of experience designing and developing innovative solutions. Proficient in developing Microservices, RESTful APIs, and web applications. Adept at collaborating with cross-functional teams, solving complex problems, and optimizing system performance to enhance user experience. Upscaling my skills in developing and creating AI-driven solutions for clients.
 
 ---
 
